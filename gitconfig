@@ -43,3 +43,6 @@
 [init]
   defaultBranch = master
 
+[user]
+	email = ophelie@nullpod.com
+	name = OpheTNullpod
